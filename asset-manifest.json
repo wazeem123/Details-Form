@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Details-form/static/css/main.3e61f6c7.chunk.css",
-    "main.js": "/Details-form/static/js/main.1f67c174.chunk.js",
-    "main.js.map": "/Details-form/static/js/main.1f67c174.chunk.js.map",
-    "runtime-main.js": "/Details-form/static/js/runtime-main.03f626de.js",
-    "runtime-main.js.map": "/Details-form/static/js/runtime-main.03f626de.js.map",
-    "static/js/2.e28550bc.chunk.js": "/Details-form/static/js/2.e28550bc.chunk.js",
-    "static/js/2.e28550bc.chunk.js.map": "/Details-form/static/js/2.e28550bc.chunk.js.map",
-    "static/js/3.40fed7ab.chunk.js": "/Details-form/static/js/3.40fed7ab.chunk.js",
-    "static/js/3.40fed7ab.chunk.js.map": "/Details-form/static/js/3.40fed7ab.chunk.js.map",
-    "index.html": "/Details-form/index.html",
-    "static/css/main.3e61f6c7.chunk.css.map": "/Details-form/static/css/main.3e61f6c7.chunk.css.map",
-    "static/js/2.e28550bc.chunk.js.LICENSE.txt": "/Details-form/static/js/2.e28550bc.chunk.js.LICENSE.txt",
-    "static/media/logo.51b388df.png": "/Details-form/static/media/logo.51b388df.png"
+    "main.css": "/Details-Form/static/css/main.3e61f6c7.chunk.css",
+    "main.js": "/Details-Form/static/js/main.1f67c174.chunk.js",
+    "main.js.map": "/Details-Form/static/js/main.1f67c174.chunk.js.map",
+    "runtime-main.js": "/Details-Form/static/js/runtime-main.315a36de.js",
+    "runtime-main.js.map": "/Details-Form/static/js/runtime-main.315a36de.js.map",
+    "static/js/2.e28550bc.chunk.js": "/Details-Form/static/js/2.e28550bc.chunk.js",
+    "static/js/2.e28550bc.chunk.js.map": "/Details-Form/static/js/2.e28550bc.chunk.js.map",
+    "static/js/3.40fed7ab.chunk.js": "/Details-Form/static/js/3.40fed7ab.chunk.js",
+    "static/js/3.40fed7ab.chunk.js.map": "/Details-Form/static/js/3.40fed7ab.chunk.js.map",
+    "index.html": "/Details-Form/index.html",
+    "static/css/main.3e61f6c7.chunk.css.map": "/Details-Form/static/css/main.3e61f6c7.chunk.css.map",
+    "static/js/2.e28550bc.chunk.js.LICENSE.txt": "/Details-Form/static/js/2.e28550bc.chunk.js.LICENSE.txt",
+    "static/media/logo.51b388df.png": "/Details-Form/static/media/logo.51b388df.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.03f626de.js",
+    "static/js/runtime-main.315a36de.js",
     "static/js/2.e28550bc.chunk.js",
     "static/css/main.3e61f6c7.chunk.css",
     "static/js/main.1f67c174.chunk.js"
